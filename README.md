@@ -12,6 +12,8 @@ The code is stored as a maven project with pom.xml included for the external lib
 * [Semilar API](http://deeptutor2.memphis.edu/Semilar-Web/): The Semilar API is used to calculate the semantic similarity of words using the implementation of Wu & Palmer's approach.
 * [Deeplearning4J](https://deeplearning4j.org/index.html): The Triple-S2 implementation uses the Deeplearning4J implementation of the Word2Vec approach. Therefore, trained word vectors have been used, which can be obtained [here](https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz).
 
+Further information on using the Triple-S code can be found in the [Wiki](https://github.com/ASchoknecht/Triple-S/wiki/Setup).
+
 ### Licensing
 Licensed under the EPL License v1.
 
