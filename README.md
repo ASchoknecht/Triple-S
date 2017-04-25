@@ -9,7 +9,7 @@ An example on how to use the LS3 library can be found in the ExammpleUsage.java 
 
 The code is stored as a maven project with pom.xml included for the external library dependencies. Yet, the following external library and files have to be included manually:
 
-* [Semilar API](http://deeptutor2.memphis.edu/Semilar-Web/)
+* [Semilar API](http://deeptutor2.memphis.edu/Semilar-Web/): The Semilar API is used to calculate the semantic similarity of words using the implementation of Wu & Palmer'S approach.
 
 ### Licensing
 Licensed under the EPL License v1.
